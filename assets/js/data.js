@@ -12,7 +12,7 @@ const UMAMI = {
     direccion: '20 Avenida Norte y Diagonal Cipactli, San Salvador',
     telefono: '+503 7200 8919',
     telefonoHref: 'tel:+50372008919',
-    email: 'reservas@umami.sv',
+    email: 'umami8reservas@gmail.com',
     instagram: 'https://www.instagram.com/',
     facebook: 'https://www.facebook.com/',
     maps: 'https://maps.google.com/?q=20+Avenida+Norte,+Diagonal+Cipactli,+San+Salvador,+El+Salvador'
